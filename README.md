@@ -10,7 +10,7 @@ Esse repositório contém todo meu trajeto e aprendizado durante o Bootcamp Java
 
 ## 🖥 Trilha de Aprenzado
 
-|Módulos| Descriçao | Nível
+|Módulos| Descriçao | Nível|
 |--------||----------||----------|
 |1| Versionamento de Código com Git e Github| Básico
 |2| Dominando a Linguagem Java | Básico/Intermediário
