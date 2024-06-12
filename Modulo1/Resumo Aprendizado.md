@@ -7,6 +7,15 @@
 ## 🐱‍👤Repositório Git
 O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempre foi reforçada a sua importância na metodologia educacional do módulo. 
 
+## 🏹 Branches
+Branches no Git são uma maneira de trabalhar em diferentes versões de um projeto ao mesmo tempo. Elas permitem que você desenvolva novas funcionalidades, faça correções de bugs ou experimente ideias sem afetar o código principal do projeto.
+- Criar uma branch: git branch <nome-da-branch>
+- Mudar para uma branch: git checkout <nome-da-branch>
+- Criar e mudar para uma nova branch: git checkout -b <nome-da-branch>
+- Mesclar uma branch: git merge <nome-da-branch>
+- Listar branches: git branch
+- Excluir uma branch: git branch -d <nome-da-branch>
+
 ## 🖥 Trilha de Aprendizado do Módulo
 
 |Trilha| Descriçao |
